@@ -1,0 +1,35 @@
+.col-6 h4 {
+    font-family: Varela Round;
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+
+}
+
+.col-12 p {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: rgba(153, 153, 153, 1);
+}
+
+.line {
+    width: 70px;
+    height: 2px;
+    background: rgba(165, 201, 38, 1);
+}
+
+section .mycard a {
+    padding: 10px 15px;
+    background-color: rgba(165, 201, 38, 1);
+    border-radius: 16px;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    text-decoration: none;
+    color: #ffffff;
+}
